@@ -1,0 +1,16 @@
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\bin\Debug\netcoreapp3.1\FCFS_SJF.exe
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\bin\Debug\netcoreapp3.1\FCFS_SJF.deps.json
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\bin\Debug\netcoreapp3.1\FCFS_SJF.runtimeconfig.json
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\bin\Debug\netcoreapp3.1\FCFS_SJF.runtimeconfig.dev.json
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\bin\Debug\netcoreapp3.1\FCFS_SJF.dll
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\bin\Debug\netcoreapp3.1\FCFS_SJF.pdb
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\obj\Debug\netcoreapp3.1\FCFS_SJF.csproj.AssemblyReference.cache
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\obj\Debug\netcoreapp3.1\FCFS_SJF.Form1.resources
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\obj\Debug\netcoreapp3.1\FCFS_SJF.csproj.GenerateResource.cache
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\obj\Debug\netcoreapp3.1\FCFS_SJF.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\obj\Debug\netcoreapp3.1\FCFS_SJF.AssemblyInfoInputs.cache
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\obj\Debug\netcoreapp3.1\FCFS_SJF.AssemblyInfo.cs
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\obj\Debug\netcoreapp3.1\FCFS_SJF.csproj.CoreCompileInputs.cache
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\obj\Debug\netcoreapp3.1\FCFS_SJF.dll
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\obj\Debug\netcoreapp3.1\FCFS_SJF.pdb
+D:\New folder\Lectures\OS\Lab programs\FCFS_SJF\obj\Debug\netcoreapp3.1\FCFS_SJF.genruntimeconfig.cache

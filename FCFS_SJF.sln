@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCFS_SJF", "FCFS_SJF.csproj", "{2F6519A9-58A3-48E9-AD37-3D0086A6CEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F6519A9-58A3-48E9-AD37-3D0086A6CEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6519A9-58A3-48E9-AD37-3D0086A6CEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6519A9-58A3-48E9-AD37-3D0086A6CEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6519A9-58A3-48E9-AD37-3D0086A6CEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C102E22E-3D5A-46FB-B955-42AB2B1D7BBC}
+	EndGlobalSection
+EndGlobal
